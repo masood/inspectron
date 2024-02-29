@@ -19,4 +19,4 @@ If you use Inspectron in your research, please cite our USENIX 2024 publication 
 License
 --------
 
-CanITrack is licensed under GNU GPLv3.
+Inspectron is licensed under GNU GPLv3.
